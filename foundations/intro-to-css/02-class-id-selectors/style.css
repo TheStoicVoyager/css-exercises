@@ -2,8 +2,16 @@
     background-color: #ff6788;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+.adjust-font-size {
+    font-size:24px
+}
 
 #second {
     color: #7881ff;
     font-size: 36px;
+}
+
+#forth {
+    background-color: #1bff72;
+    font-weight: bold;
 }
